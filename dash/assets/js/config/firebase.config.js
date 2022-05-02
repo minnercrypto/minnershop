@@ -1,11 +1,11 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyD6ZSirsHNwWbjSjKqyWqzfPOZZZihy43U",
-  authDomain: "minnercrypto-official.firebaseapp.com",
-  projectId: "minnercrypto-official",
-  storageBucket: "minnercrypto-official.appspot.com",
-  messagingSenderId: "267365619729",
-  appId: "1:267365619729:web:a19a28c54972de423b79b0",
-  measurementId: "G-8847SS0V0T"
+  apiKey: "AIzaSyCNF27mvpsK2JpZ1gAoXYeN2AAxMeV4PY8",
+    authDomain: "minnerglobal-2b5e7.firebaseapp.com",
+    projectId: "minnerglobal-2b5e7",
+    storageBucket: "minnerglobal-2b5e7.appspot.com",
+    messagingSenderId: "121648342024",
+    appId: "1:121648342024:web:3a8f8f4144b98c77091dbd",
+    measurementId: "G-0VN38HCKYZ"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
